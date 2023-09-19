@@ -40,10 +40,6 @@ public class MyPostActivity extends AppCompatActivity {
     private MutableLiveData liveData;
     private MyPostViewModel myPostViewModel;
     private MySharedPreferences mySharedPreferences;
-    private MySharedPreferences mySharedPreferences1;
-
-    private MySharedPreferences mySharedPreferences3;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
