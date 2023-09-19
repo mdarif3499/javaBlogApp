@@ -42,6 +42,8 @@ public class MyPostActivity extends AppCompatActivity {
     private MySharedPreferences mySharedPreferences;
     private MySharedPreferences mySharedPreferences1;
 
+    private MySharedPreferences mySharedPreferences3;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
