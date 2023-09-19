@@ -41,6 +41,8 @@ public class MyPostActivity extends AppCompatActivity {
     private MyPostViewModel myPostViewModel;
     private MySharedPreferences mySharedPreferences;
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
